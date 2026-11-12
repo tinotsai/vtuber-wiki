@@ -1,0 +1,138 @@
+[
+    {
+        "id": "stellar_stellar",
+        "title": "Stellar Stellar",
+        "artist": "星街すいせい",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=a51VH9BYzZA",
+        "ref_talent_id": "hoshimachi_suisei"
+    },
+    {
+        "id": "bibideba",
+        "title": "ビビデバ (BIBIDEBA)",
+        "artist": "星街すいせい",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=hx0CZzqvOGo",
+        "ref_talent_id": "hoshimachi_suisei"
+    },
+    {
+        "id": "suisei_specter",
+        "title": "GHOST",
+        "artist": "星街すいせい",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=V1tk7gtINnY",
+        "ref_talent_id": "hoshimachi_suisei"
+    },
+    {
+        "id": "red_hot_bliss",
+        "title": "iredelic",
+        "artist": "さくらみこ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=52w93W7pXjs",
+        "ref_talent_id": "sakura_miko"
+    },
+    {
+        "id": "miko_cherry",
+        "title": "にゃっはるよーい",
+        "artist": "さくらみこ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=Z78V2V8_W0g",
+        "ref_talent_id": "sakura_miko"
+    },
+    {
+        "id": "miko_summer",
+        "title": "サマーハイヒール",
+        "artist": "さくらみこ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
+        "ref_talent_id": "sakura_miko"
+    },
+    {
+        "id": "shirakami_fubuki_song",
+        "title": "Say Fanfare!",
+        "artist": "白上フブキ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=vVj4u_uX5pw",
+        "ref_talent_id": "shirakami_fubuki"
+    },
+    {
+        "id": "fubuki_koi",
+        "title": "恋のStart Dash!",
+        "artist": "白上フブキ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=9V7q_yXJqj0",
+        "ref_talent_id": "shirakami_fubuki"
+    },
+    {
+        "id": "fubuki_fox",
+        "title": "Hi Fine FOX!!",
+        "artist": "白上フブキ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=52w93W7pXjs",
+        "ref_talent_id": "shirakami_fubuki"
+    },
+    {
+        "id": "usada_pekora_song",
+        "title": "ぺこらむしゃむしゃうぇ〜い",
+        "artist": "兎田ぺこら",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=7L7q_yXJqj0",
+        "ref_talent_id": "usada_pekora"
+    },
+    {
+        "id": "pekora_bunnies",
+        "title": "全人類うさぎ化計画",
+        "artist": "兎田ぺこら",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=3V7q_yXJqj0",
+        "ref_talent_id": "usada_pekora"
+    },
+    {
+        "id": "pekora_peko",
+        "title": "PEKO Pekora",
+        "artist": "兎田ぺこら",
+        "type": "cover",
+        "youtube_url": "https://www.youtube.com/watch?v=1Z78V2V8_W0",
+        "ref_talent_id": "usada_pekora"
+    },
+    {
+        "id": "vspo_song_sumire",
+        "title": "VSPO! Anthem",
+        "artist": "花芽すみれ",
+        "type": "cover",
+        "youtube_url": "https://www.youtube.com/watch?v=2Z78V2V8_W0",
+        "ref_talent_id": "kaga_sumire"
+    },
+    {
+        "id": "sumire_game",
+        "title": "Play Hard",
+        "artist": "花芽すみれ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=4Z78V2V8_W0",
+        "ref_talent_id": "kaga_sumire"
+    },
+    {
+        "id": "sumire_fps",
+        "title": "Aim High",
+        "artist": "花芽すみれ",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=vVj4u_uX5pw",
+        "ref_talent_id": "kaga_sumire"
+    },
+    {
+        "id": "hinano_shoujo",
+        "title": "ひなちらし",
+        "artist": "橘ひなの",
+        "type": "original",
+        "youtube_url": "https://www.youtube.com/watch?v=6Z78V2V8_W0",
+        "ref_talent_id": "tachibana_hinano"
+    },
+    {
+        "id": "hinano_vspo",
+        "title": "青春Never Die",
+        "artist": "橘ひなの",
+        "type": "cover",
+        "youtube_url": "https://www.youtube.com/watch?v=7Z78V2V8_W0",
+        "ref_talent_id": "tachibana_hinano"
+    }
+]

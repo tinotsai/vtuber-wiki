@@ -1,0 +1,18 @@
+[
+    {
+        "id": "hololive",
+        "name_zh": "hololive production",
+        "name_jp": "ホロライブプロダクション",
+        "desc_zh": "COVER 株式會社營運，全球知名的 VTuber 事務所。",
+        "desc_jp": "カバー株式会社が運営する、世界規模のVTuber事務所。",
+        "url": "https://hololive.hololivepro.com/"
+    },
+    {
+        "id": "vspo",
+        "name_zh": "VSPO!",
+        "name_jp": "ぶいすぽっ！",
+        "desc_zh": "Brave group 營運，結合遊戲與電競的次世代虛擬電競企劃。",
+        "desc_jp": "次世代Virtual eSportsプロジェクト。ゲームに本気で取り組むメンバーが集まる。",
+        "url": "https://vspo.jp/"
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="site_title">V-Wiki | VTuber 知識百科</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container header-inner">
+            <div class="logo" data-target="home">
+                <span class="logo-icon">✧</span> V-Wiki
+            </div>
+            <button class="menu-toggle" id="mobile-menu-btn">
+                <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+            </button>
+            <nav id="main-nav">
+                <button data-target="home" class="nav-btn active" data-i18n="nav_home">首頁</button>
+                <button data-target="agencies" class="nav-btn" data-i18n="nav_agencies">事務所</button>
+                <button data-target="talents" class="nav-btn" data-i18n="nav_talents">成員</button>
+                <button data-target="music" class="nav-btn" data-i18n="nav_music">音樂</button>
+                <button data-target="favorites" class="nav-btn" data-i18n="nav_favorites">收藏</button>
+            </nav>
+            <div class="header-actions">
+                <button id="lang-toggle-btn" class="lang-btn">日本語</button>
+            </div>
+        </div>
+    </header>
+    
+    <main id="content" class="fade-in">
+        <!-- Content injected via JS -->
+        <div class="loading-state" data-i18n="loading">載入中 / Loading...</div>
+    </main>
+
+    <footer>
+        <div class="container footer-inner">
+            <div class="footer-brand">
+                <div class="logo"><span class="logo-icon">✧</span> V-Wiki</div>
+                <p data-i18n="home_desc" class="footer-desc">VTuber 資訊整理的開放性百科計畫</p>
+            </div>
+            <div class="footer-links">
+                <p data-i18n="footer_text">© 2026 V-Wiki Project. 本站為非官方整理，資料與版權皆歸屬於各官方事務所。</p>
+                <p class="disclaimer" data-i18n="footer_disclaimer">※ 圖像資源皆來自官方公開資料，僅供展示與檢索使用。</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="./assets/js/i18n.js"></script>
+    <script src="./assets/js/app.js"></script>
+</body>
+</html>
