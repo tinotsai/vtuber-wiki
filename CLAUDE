@@ -1,0 +1,10 @@
+# Claude Code 執行指引與指令集 (CLAUDE.md)
+
+本文件提供 Claude 在本專案中執行維護、擴充與程式碼修改時的最高指導原則。
+
+---
+
+## 1. 核心開發命令 (Development Commands)
+- **啟動本地開發伺服器**：
+  ```bash
+  python -m http.server 8000
